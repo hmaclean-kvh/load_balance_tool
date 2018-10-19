@@ -1,0 +1,216 @@
+{
+    "AFRICA-KVH": {
+        "acu": "W AFRICA",
+        "eli": "AFRICA",
+        "viasat": "ZA1AL1AC1"
+    },
+    "ATLOR-KVH": {
+        "acu": "ATLANTIC-C",
+        "eli": "ALTOR",
+        "viasat": "USCA2AL1AC1"
+    },
+    "BH1AL1AC1": {
+        "acu": "MIDEAST",
+        "eli": "MIDEAST",
+        "viasat": "BH1AL1AC1"
+    },
+    "BRAZIL": {
+        "acu": "S AMERICA-1",
+        "eli": "BRAZIL",
+        "viasat": "BR1AL1AC1"
+    },
+    "CARIB-KVH": {
+        "acu": "CARIBBEAN",
+        "eli": "CARIB",
+        "viasat": "USFL1AL1AC1"
+    },
+    "CHILE-YONDER": {
+        "acu": "S AMERICA-2",
+        "eli": "CHILE",
+        "viasat": "CL1AL1AC1"
+    },
+    "DE1AL1AC4": {
+        "acu": "EMEA-2",
+        "eli": "EMEA-FOCUS",
+        "viasat": "DE1AL1AC4"
+    },
+    "DE1AL1AC6": {
+        "acu": "EMEA-1",
+        "eli": "EMEA",
+        "viasat": "DE1AL1AC6"
+    },
+    "DE2AL1AC2": {
+        "acu": "EMEA-3",
+        "eli": "EMEA3",
+        "viasat": "DE2AL1AC2"
+    },
+    "EASIA-KVH": {
+        "acu": "E ASIA-1",
+        "eli": "EAISIA",
+        "viasat": "JP1AL1AC1"
+    },
+    "EIOR-KVH": {
+        "acu": "E INDIAN",
+        "eli": "EIOR",
+        "viasat": "JP1AL1AC2"
+    },
+    "IOR-KVH": {
+        "acu": "INDIAN-C",
+        "eli": "IOR",
+        "viasat": "DE2AL1AC1"
+    },
+    "JP1AL1AC4": {
+        "acu": "E ASIA-2",
+        "eli": "EAISIA2",
+        "viasat": "JP1AL1AC4"
+    },
+    "JP1AL1AC5": {
+        "acu": "E ASIA-3",
+        "eli": "EASIA3",
+        "viasat": "JP1AL1AC5"
+    },
+    "K-CONUS": {
+        "acu": "N AMERICA-1",
+        "eli": "K-CONUS",
+        "viasat": "USCA1AL1AC3"
+    },
+    "NMAOR-YONDER": {
+        "acu": "N ATLANTIC",
+        "eli": "NAOR",
+        "viasat": "USMD1AL1AC1"
+    },
+    "NPOR-KVH": {
+        "acu": "N PACIFIC",
+        "eli": "NPOR",
+        "viasat": "USHI1AL1AC1"
+    },
+    "OCEANIA-KVH": {
+        "acu": "SW PACIFIC-1",
+        "eli": "OCEANIA",
+        "viasat": "AU1AL1AC1"
+    },
+    "PACOR-KVH": {
+        "acu": "PACIFIC-C",
+        "eli": "PACOR",
+        "viasat": "USCA2AL1AC2"
+    },
+    "USCA3AL1AC1": {
+        "acu": "SW PACIFIC-2",
+        "eli": "SWP",
+        "viasat": "USCA3AL1AC1"
+    },
+    "USCA3AL1AC2": {
+        "acu": "NE PACIFIC",
+        "eli": "NEP",
+        "viasat": "USCA3AL1AC2"
+    },
+    "USCA3AL1AC3": {
+        "acu": "NW PACIFIC",
+        "eli": "NWP",
+        "viasat": "USCA3AL1AC3"
+    },
+    "USCA3AL1AC4": {
+        "acu": "NW AMERICA",
+        "eli": "NWA",
+        "viasat": "USCA3AL1AC4"
+    },
+    "USFL1AL1AC2": {
+        "acu": "N AMERICA-4",
+        "eli": "",
+        "viasat": "USFL1AL1AC2"
+    },
+    "USVA4AL1AC1": {
+        "acu": "N ATLANTIC-2",
+        "eli": "NAOR2",
+        "viasat": "USVA4AL1AC1"
+    },
+    "WIOR-KVH": {
+        "acu": "W INDIAN",
+        "eli": "WIOR",
+        "viasat": "JP1AL1AC3"
+    },
+    "acu": {
+        "ATLANTIC-C": "ATLOR-KVH",
+        "CARIBBEAN": "CARIB-KVH",
+        "E ASIA-1": "EASIA-KVH",
+        "E ASIA-2": "JP1AL1AC4",
+        "E ASIA-3": "JP1AL1AC5",
+        "E INDIAN": "EIOR-KVH",
+        "EMEA-1": "DE1AL1AC6",
+        "EMEA-2": "DE1AL1AC4",
+        "EMEA-3": "DE2AL1AC2",
+        "INDIAN-C": "IOR-KVH",
+        "MIDEAST": "BH1AL1AC1",
+        "N AMERICA-1": "K-CONUS",
+        "N AMERICA-4": "USFL1AL1AC2",
+        "N ATLANTIC": "NMAOR-YONDER",
+        "N ATLANTIC-2": "USVA4AL1AC1",
+        "N PACIFIC": "NPOR-KVH",
+        "NE PACIFIC": "USCA3AL1AC2",
+        "NW AMERICA": "USCA3AL1AC4",
+        "NW PACIFIC": "USCA3AL1AC3",
+        "PACIFIC-C": "PACOR-KVH",
+        "S AMERICA-1": "BRAZIL",
+        "S AMERICA-2": "CHILE-YONDER",
+        "SW PACIFIC-1": "OCEANIA-KVH",
+        "SW PACIFIC-2": "USCA3AL1AC1",
+        "W AFRICA": "AFRICA-KVH",
+        "W INDIAN": "WIOR-KVH"
+    },
+    "eli": {
+        "": "USFL1AL1AC2",
+        "AFRICA": "AFRICA-KVH",
+        "ALTOR": "ATLOR-KVH",
+        "BRAZIL": "BRAZIL",
+        "CARIB": "CARIB-KVH",
+        "CHILE": "CHILE-YONDER",
+        "EAISIA": "EASIA-KVH",
+        "EAISIA2": "JP1AL1AC4",
+        "EASIA3": "JP1AL1AC5",
+        "EIOR": "EIOR-KVH",
+        "EMEA": "DE1AL1AC6",
+        "EMEA-FOCUS": "DE1AL1AC4",
+        "EMEA3": "DE2AL1AC2",
+        "IOR": "IOR-KVH",
+        "K-CONUS": "K-CONUS",
+        "MIDEAST": "BH1AL1AC1",
+        "NAOR": "NMAOR-YONDER",
+        "NAOR2": "USVA4AL1AC1",
+        "NEP": "USCA3AL1AC2",
+        "NPOR": "NPOR-KVH",
+        "NWA": "USCA3AL1AC4",
+        "NWP": "USCA3AL1AC3",
+        "OCEANIA": "OCEANIA-KVH",
+        "PACOR": "PACOR-KVH",
+        "SWP": "USCA3AL1AC1",
+        "WIOR": "WIOR-KVH"
+    },
+    "viasat": {
+        "AU1AL1AC1": "OCEANIA-KVH",
+        "BH1AL1AC1": "BH1AL1AC1",
+        "BR1AL1AC1": "BRAZIL",
+        "CL1AL1AC1": "CHILE-YONDER",
+        "DE1AL1AC4": "DE1AL1AC4",
+        "DE1AL1AC6": "DE1AL1AC6",
+        "DE2AL1AC1": "IOR-KVH",
+        "DE2AL1AC2": "DE2AL1AC2",
+        "JP1AL1AC1": "EASIA-KVH",
+        "JP1AL1AC2": "EIOR-KVH",
+        "JP1AL1AC3": "WIOR-KVH",
+        "JP1AL1AC4": "JP1AL1AC4",
+        "JP1AL1AC5": "JP1AL1AC5",
+        "USCA1AL1AC3": "K-CONUS",
+        "USCA2AL1AC1": "ATLOR-KVH",
+        "USCA2AL1AC2": "PACOR-KVH",
+        "USCA3AL1AC1": "USCA3AL1AC1",
+        "USCA3AL1AC2": "USCA3AL1AC2",
+        "USCA3AL1AC3": "USCA3AL1AC3",
+        "USCA3AL1AC4": "USCA3AL1AC4",
+        "USFL1AL1AC1": "CARIB-KVH",
+        "USFL1AL1AC2": "USFL1AL1AC2",
+        "USHI1AL1AC1": "NPOR-KVH",
+        "USMD1AL1AC1": "NMAOR-YONDER",
+        "USVA4AL1AC1": "USVA4AL1AC1",
+        "ZA1AL1AC1": "AFRICA-KVH"
+    }
+}

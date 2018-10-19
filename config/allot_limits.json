@@ -1,0 +1,41 @@
+{
+"CARIB-KVH": 
+	{
+		"RL": 90
+	}, 
+"NPOR-KVH": 
+	{
+		"RL": 90
+	},
+"EASIA-KVH": 
+	{
+		"RL": 93
+	},
+"EIOR-KVH": 
+	{
+		"FL": 95
+	},
+"JP1AL1AC4":
+	{
+		"RL": 93
+	},
+"WIOR-KVH": 
+	{
+		"FL": 95
+	},
+"ATLOR-KVH":
+	{
+		"RL": 50,
+		"FL": 50
+	},
+"IOR-KVH":
+	{
+		"RL": 50,
+		"FL": 50
+	},
+"PACOR-KVH":
+	{
+		"RL": 50,
+		"FL": 50
+	}
+}

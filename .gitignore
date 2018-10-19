@@ -1,0 +1,17 @@
+logs/
+data/
+__pycache__/
+ml_model/__pycache__/
+ml_model/models/
+ml_model/res/
+config_info.py
+res/beam_balance_data.json
+res/feature_data.json
+res/iteration.json
+res/open_cases.json
+res/balance.csv
+config/beam_config.json
+config/beam_config.json
+config/id_rsa_balance
+config/id_rsa_balance.pub
+geckodriver.log

@@ -1,0 +1,8 @@
+{
+	"ml_model": false,
+	"open_cases": true,
+	"send_sftp": false,
+	"write_to_db": true,
+	"ml_iteration": 0,
+	"frequency": 0
+}
